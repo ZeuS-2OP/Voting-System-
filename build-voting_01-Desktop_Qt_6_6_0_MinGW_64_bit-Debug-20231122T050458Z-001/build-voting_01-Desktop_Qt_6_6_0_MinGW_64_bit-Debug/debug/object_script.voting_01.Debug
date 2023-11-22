@@ -1,0 +1,11 @@
+debug/admin_dash.o
+debug/admin_login.o
+debug/main.o
+debug/mainwindow.o
+debug/voter_login1.o
+debug/voting01.o
+debug/moc_admin_dash.o
+debug/moc_admin_login.o
+debug/moc_mainwindow.o
+debug/moc_voter_login1.o
+debug/moc_voting01.o

@@ -1,0 +1,11 @@
+release/admin_dash.o
+release/admin_login.o
+release/main.o
+release/mainwindow.o
+release/voter_login1.o
+release/voting01.o
+release/moc_admin_dash.o
+release/moc_admin_login.o
+release/moc_mainwindow.o
+release/moc_voter_login1.o
+release/moc_voting01.o
